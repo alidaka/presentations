@@ -1,0 +1,11 @@
+{
+  "name": "presentations",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "reveal-md -w step_up.md"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "latest"
+  }
+}
