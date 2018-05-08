@@ -4,6 +4,8 @@
 
 Catherine, Bea, Augustus
 
+<!-- .slide: data-background="./images/crowd.jpg" -->
+
 ---
 
 ## Contents
@@ -18,7 +20,7 @@ Catherine, Bea, Augustus
 
 ---
 
-## Format
+## Event
 
 * Lynnwood Convention Center
 * 800 attendees
@@ -26,9 +28,59 @@ Catherine, Bea, Augustus
 
 ---
 
-# Notable Sessions
+## Schedule
+
+1. Opening
+1. Keynote: Ijeoma Oluo
+1. Breakout sessions
+1. Lunch
+1. Keynote: Nate Bowling
+1. Breakout sessions
 
 ---
+
+# Notable Sessions:
+# Keynotes
+
+---
+
+## Ijeoma Oluo
+
+<p class="fragment fade-out">_So You Want to Talk about Race_</p>
+<p class="fragment fade-in">Beyond Hearts and Minds</p>
+
+---
+
+Hearts and minds?
+
+---
+
+## Nate Bowling
+
+Taking a Stand in Polarizing Times
+
+---
+
+# Notable Sessions:
+# Breakouts
+
+---
+
+## Brett Kawuda
+
+Cultural Humility
+
+---
+
+# Takeaways
+
+---
+
+---
+
+# Image slide
+
+<!-- .slide: data-background="./images/nate.jpg" -->
 
 ---
 
@@ -37,3 +89,6 @@ Catherine, Bea, Augustus
 > an quote
 
 Note: speaker noteeee
+
+<p class="fragment">frag</p>
+<p class="fragment">ment</p>
