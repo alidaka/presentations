@@ -75,26 +75,29 @@ Taking a Stand in Polarizing Times
 
 ---
 
-> Black people have had full rights as a citizen since 1968.
-
 "Seeking justice" vs "being political"
 
-Note: Three "thank-yous": "thank you and shut up"
+Note:
+
+Civil Rights Act of 1968
+
+Three "thank-yous": "thank you and shut up"
 
 ---
 
-Three core truths in his advocacy:
-1. Our kids go to inferior schools - by design
-1. No impetus or political will to change - now or in the foreseeable future
-1. All teachers and teaching are not created equal
+### Three core truths in his advocacy:
 
----
-
-Three books:
-
-1. _Evicted_, Matthew Desmond
-1. _The New Jim Crow_, Michelle Alexander
-1. _The Big Sort_, Bill Bishop
+<ol>
+  <li class="fragment">
+    Our kids go to inferior schools - by design
+  </li>
+  <li class="fragment">
+    No impetus or political will to change - now or in the foreseeable future
+  </li>
+  <li class="fragment">
+    All teachers and teaching are not created equal
+  </li>
+</ol>
 
 ---
 
@@ -102,13 +105,31 @@ Three books:
 
 ---
 
-When you see systems of inequity:
+> Black people have had full rights as a citizen since 1968.
 
+---
+
+### Three books:
+
+1. _Evicted_ - Matthew Desmond
+1. _The New Jim Crow_ - Michelle Alexander
+1. _The Big Sort_ - Bill Bishop
+
+---
+
+### When you see systems of inequity:
+
+<p class="fragment">
 **AFFIRM** the humanity of the victim
+</p>
 
+<p class="fragment">
 **REPORT** to police, Twitter, ...
+</p>
 
+<p class="fragment">
 **CONFRONT** the abuser
+</p>
 
 ---
 
