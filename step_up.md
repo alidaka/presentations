@@ -49,19 +49,21 @@ Catherine, Bea, Augustus
 <p class="fragment fade-out">_So You Want to Talk about Race_</p>
 <p class="fragment fade-in">Beyond Hearts and Minds</p>
 
----
+<!-- .slide: data-background="./images/ijeoma.jpg" -->
 
-> There's a difference between work you enjoy and work you find rewarding.
+---
 
 > There's no amount of hearts and minds we can take to the bank.
 
+<!---->
+
 > System oppression only requires you do nothing.
+
+---
 
 Think of racism not as a disease of hearts
 
 Think of racism as a function of systems.
-
-Note: "Kid in a candy store" getting maced
 
 ---
 
@@ -69,13 +71,15 @@ Note: "Kid in a candy store" getting maced
 
 Taking a Stand in Polarizing Times
 
+<!-- .slide: data-background="./images/nate.jpg" -->
+
 ---
 
 > Black people have had full rights as a citizen since 1968.
 
-Three "thank-yous": "thank you and shut up"
-
 "Seeking justice" vs "being political"
+
+Note: Three "thank-yous": "thank you and shut up"
 
 ---
 
@@ -94,7 +98,7 @@ Three books:
 
 ---
 
-Overton window
+<!-- .slide: data-background="./images/overton.svg" data-background-size="contain" -->
 
 ---
 
@@ -150,6 +154,12 @@ Sovereignty, Culture, & Resilience
 # Takeaways
 
 ---
+
+---
+
+# Attribution
+
+- Overton Window diagram: https://en.wikipedia.org/wiki/File:Overton_Window_diagram.svg
 
 ---
 

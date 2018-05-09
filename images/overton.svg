@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="680"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Overton_Window_diagram.svg">
+  <title
+     id="title4521">Overton Window diagram</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.68663868"
+     inkscape:cx="474.56511"
+     inkscape:cy="337.53142"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1024"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Overton Window diagram</dc:title>
+        <dc:date>2015-01-12</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Hydrargyrum</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Wikimedia Foundation</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>Diagram of the &quot;Overton Window&quot;, based on the theories promoted by Joseph P. Overton (1960-2003), former director of the Mackinac Center for Public Policy.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-408.24527,-325.82035)">
+    <g
+       id="g4919">
+      <rect
+         ry="0"
+         y="325.82034"
+         x="408.24527"
+         height="680"
+         width="400"
+         id="rect3903"
+         style="opacity:0.9;fill:#dbf1de;fill-opacity:1;stroke:none" />
+      <g
+         transform="matrix(2,0,0,2,-612.26819,-665.03659)"
+         id="g4803">
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           x="524.1214"
+           y="518.4574"
+           id="text3047"
+           sodipodi:linespacing="110%"><tspan
+             sodipodi:role="line"
+             id="tspan3049"
+             x="524.1214"
+             y="518.4574"
+             style="font-style:italic;-inkscape-font-specification:Liberation Sans Italic">More Freedom</tspan></text>
+        <g
+           id="g3967">
+          <path
+             inkscape:connector-curvature="0"
+             id="path3051"
+             d="m 570.17853,529.49552 0,269.36614"
+             style="fill:none;stroke:#000000;stroke-width:1.63434172;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="rect3055"
+             d="m 563.67363,536.15339 6.47504,-6.47504 6.47503,6.47504"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             d="m 563.70349,792.20379 6.47504,6.47504 6.47504,-6.47504"
+             id="path3837"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccc" />
+        </g>
+        <text
+           sodipodi:linespacing="110%"
+           id="text3839"
+           y="821.60992"
+           x="525.29718"
+           style="font-size:14px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Italic"
+           xml:space="preserve"><tspan
+             y="821.60992"
+             x="525.29718"
+             id="tspan3841"
+             sodipodi:role="line">Less Freedom</tspan></text>
+        <g
+           id="g3961">
+          <rect
+             ry="9.4814148"
+             y="608.97229"
+             x="526.30908"
+             height="110.4126"
+             width="87.738892"
+             id="rect3843"
+             style="opacity:0.9;fill:#ffffff;stroke:#000000;stroke-width:2.64570546;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="150%"
+             id="text3847"
+             y="658.49792"
+             x="536.33722"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+             xml:space="preserve"><tspan
+               style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+               y="658.49792"
+               x="536.33722"
+               id="tspan3849"
+               sodipodi:role="line">OVERTON</tspan><tspan
+               style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+               id="tspan3851"
+               y="679.49792"
+               x="536.33722"
+               sodipodi:role="line">WINDOW</tspan></text>
+        </g>
+        <g
+           id="g4779"
+           transform="translate(-200.53619,0)">
+          <text
+             transform="scale(0.94388588,1.0594501)"
+             sodipodi:linespacing="110%"
+             id="text4671"
+             y="539.13104"
+             x="876.16412"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             xml:space="preserve"><tspan
+               y="539.13104"
+               x="876.16412"
+               id="tspan4673"
+               sodipodi:role="line">Unthinkable</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.68000034;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             x="876.07379"
+             y="557.5022"
+             id="text4675"
+             sodipodi:linespacing="110%"
+             transform="scale(0.94388588,1.0594501)"><tspan
+               sodipodi:role="line"
+               id="tspan4677"
+               x="876.07379"
+               y="557.5022">Radical</tspan></text>
+          <text
+             transform="scale(0.94388588,1.0594501)"
+             sodipodi:linespacing="110%"
+             id="text4687"
+             y="576.13135"
+             x="876.62866"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.76000001;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             xml:space="preserve"><tspan
+               y="576.13135"
+               x="876.62866"
+               id="tspan4689"
+               sodipodi:role="line">Acceptable</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.83999999;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             x="876.57709"
+             y="594.63153"
+             id="text4691"
+             sodipodi:linespacing="110%"
+             transform="scale(0.94388588,1.0594501)"><tspan
+               sodipodi:role="line"
+               id="tspan4693"
+               x="876.57709"
+               y="594.63153">Sensible</tspan></text>
+          <text
+             transform="scale(0.94388588,1.0594501)"
+             sodipodi:linespacing="110%"
+             id="text4695"
+             y="613.13171"
+             x="876.07379"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             xml:space="preserve"><tspan
+               y="613.13171"
+               x="876.07379"
+               id="tspan4697"
+               sodipodi:role="line">Popular</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             x="876.07379"
+             y="631.63184"
+             id="text4699"
+             sodipodi:linespacing="110%"
+             transform="scale(0.94388588,1.0594501)"><tspan
+               style="font-weight:bold;-inkscape-font-specification:Liberation Sans Bold"
+               sodipodi:role="line"
+               id="tspan4701"
+               x="876.07379"
+               y="631.63184">Policy</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.92000002;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             x="876.07379"
+             y="650.13202"
+             id="text4759"
+             sodipodi:linespacing="110%"
+             transform="scale(0.94388588,1.0594501)"><tspan
+               sodipodi:role="line"
+               id="tspan4761"
+               x="876.07379"
+               y="650.13202">Popular</tspan></text>
+          <text
+             transform="scale(0.94388588,1.0594501)"
+             sodipodi:linespacing="110%"
+             id="text4763"
+             y="668.6322"
+             x="876.57709"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.83999999;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             xml:space="preserve"><tspan
+               y="668.6322"
+               x="876.57709"
+               id="tspan4765"
+               sodipodi:role="line">Sensible</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.76000001;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             x="876.62866"
+             y="687.13232"
+             id="text4767"
+             sodipodi:linespacing="110%"
+             transform="scale(0.94388588,1.0594501)"><tspan
+               sodipodi:role="line"
+               id="tspan4769"
+               x="876.62866"
+               y="687.13232">Acceptable</tspan></text>
+          <text
+             transform="scale(0.94388588,1.0594501)"
+             sodipodi:linespacing="110%"
+             id="text4771"
+             y="705.50348"
+             x="876.07379"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.68000034;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             xml:space="preserve"><tspan
+               y="705.50348"
+               x="876.07379"
+               id="tspan4773"
+               sodipodi:role="line">Radical</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:13.2144022px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:110.00000238%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold"
+             x="876.16412"
+             y="724.13269"
+             id="text4775"
+             sodipodi:linespacing="110%"
+             transform="scale(0.94388588,1.0594501)"><tspan
+               sodipodi:role="line"
+               id="tspan4777"
+               x="876.16412"
+               y="724.13269">Unthinkable</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
