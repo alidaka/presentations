@@ -144,25 +144,136 @@ Cultural Humility, Empathy, and Compassion
 
 ---
 
-Cultural Humility
-
-Empathy
-
-Compassion
-
 > a philosophy for interaction
 
-see slides
+<p class="fragment">
+Cultural Humility
+</p>
 
-structured pair conversations
+<p class="fragment">
+Empathy
+</p>
 
-- "I don't see color"
+<p class="fragment">
+Compassion
+</p>
 
-- you're the CEO, two PoC employees in hall complaining about "doing the education work"
+---
 
-- accounting hiring committee: "... plus she's Oriental, good at arithmetic"
+### Cultural Humility
 
-slides: questions your institution might ask
+<p class="fragment">
+Lifelong learning and critical self-reflection
+
+<p class="fragment">
+Recognize and challenge power imbalances
+</p>
+
+<p class="fragment">
+Institutional accountability
+</p>
+
+Note:
+
+Accepting our own limitations
+
+Freeing ourselves from feeling the need to be experts
+
+Neutralizing imbalances
+
+Encouraging this philosophy/culture at an institutional level
+
+---
+
+### Empathy
+
+<p class="fragment">
+If victim, attempt to empathize with perpetrator
+</p>
+
+<p class="fragment">
+If perpetrator, attempt to empathize with victim
+</p>
+
+---
+
+### Compassion
+
+<p class="fragment">
+Feeling deep sympathy for those hurt
+</p>
+
+<p class="fragment">
+When hurt, trying to be open for dialogue
+</p>
+
+---
+
+### Practicing CHEC
+
+<ul>
+<li class="fragment">
+Understand yourself
+<ul>
+<li>
+Recognize your reactions
+</li>
+<li>
+Recognize your thoughts
+</li>
+<li>
+Recognize your behaviors
+</li>
+</ul>
+</li>
+<li class="fragment">
+Impact of these?
+</li>
+<li class="fragment">
+How do you want interactions to look?
+</li>
+<li class="fragment">
+What might need to change?
+</li>
+</ul>
+
+---
+
+### CHEC Activity
+
+<ul>
+<li class="fragment">
+"I don't see color"
+</li>
+<li class="fragment">
+Who educates about difficult topics
+</li>
+<li class="fragment">
+Hiring bias
+</li>
+</ul>
+
+Note:
+
+"white people...always look to us for "the black perspective""
+
+"... plus she's Oriental, you know she's good at math!"
+
+---
+
+### Organizational connectedness
+
+Note:
+
+Respect
+
+Open communication
+
+Deeper connections
+
+Supportive environment
+
+Genuine and authentic individuals
 
 ---
 
@@ -182,19 +293,4 @@ Sovereignty, Culture, & Resilience
 
 - Overton Window diagram: https://en.wikipedia.org/wiki/File:Overton_Window_diagram.svg
 
----
-
-# Image slide
-
-<!-- .slide: data-background="./images/nate.jpg" -->
-
----
-
-## Demo slide, remove...
-
-> an quote
-
-Note: speaker noteeee
-
-<p class="fragment">frag</p>
-<p class="fragment">ment</p>
+- Brett Kuwada, http://www.checcenter.org/
