@@ -287,6 +287,16 @@ Sovereignty, Culture, & Resilience
 
 ---
 
+## Systems, not people, propagate inequity
+
+---
+
+## Inaction is complicity
+
+---
+
+## Empathy is critical
+
 ---
 
 # Attribution
