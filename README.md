@@ -1,5 +1,10 @@
 # Run it
+```
+npm install
 npm start
+```
+
+Browse to http://localhost:1948/step_up.md
 
 # STEP UP to do
 add images?
