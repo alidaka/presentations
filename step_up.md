@@ -18,6 +18,8 @@ Catherine, Bea, Augustus
 
 # Format
 
+<!-- .slide: data-background="./images/pamphlet.jpg" -->
+
 ---
 
 ## Event
@@ -142,21 +144,11 @@ Three "thank-yous": "thank you and shut up"
 
 Cultural Humility, Empathy, and Compassion
 
+<!-- .slide: data-background="./images/chec_kuwada.jpg" -->
+
 ---
 
 > a philosophy for interaction
-
-<p class="fragment">
-Cultural Humility
-</p>
-
-<p class="fragment">
-Empathy
-</p>
-
-<p class="fragment">
-Compassion
-</p>
 
 ---
 
@@ -284,6 +276,8 @@ Sovereignty, Culture, & Resilience
 ---
 
 # Takeaways
+
+<!-- .slide: data-background="./images/bill_of_rights.jpg" -->
 
 ---
 
