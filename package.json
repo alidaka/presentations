@@ -2,7 +2,8 @@
   "name": "presentations",
   "version": "0.1.0",
   "scripts": {
-    "start": "reveal-md -w step_up.md"
+    "start": "reveal-md -w step_up.md",
+    "host": "reveal-md --disable-auto-open"
   },
   "license": "ISC",
   "dependencies": {
